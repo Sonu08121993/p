@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="Academy.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="HomePagetoLogin(failed)" verbose="0">
+    <classes>
+      <class name="Academy.HomePageToLogin">
+        <methods>
+          <include name="teardown"/>
+          <include name="homePageNavigation" invocation-numbers="0 1"/>
+          <include name="initializa"/>
+        </methods>
+      </class> <!-- Academy.HomePageToLogin -->
+    </classes>
+  </test> <!-- HomePagetoLogin(failed) -->
+  <test thread-count="5" name="ValidatingTitle(failed)" verbose="0">
+    <classes>
+      <class name="Academy.validateTitleHome">
+        <methods>
+          <include name="homePageNavigation"/>
+          <include name="teardown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Academy.validateTitleHome -->
+    </classes>
+  </test> <!-- ValidatingTitle(failed) -->
+  <test thread-count="5" name="ValidatingContactBar(failed)" verbose="0">
+    <classes>
+      <class name="Academy.validateContactBarHome">
+        <methods>
+          <include name="homePageNavigation"/>
+          <include name="teardown"/>
+          <include name="initializa"/>
+        </methods>
+      </class> <!-- Academy.validateContactBarHome -->
+    </classes>
+  </test> <!-- ValidatingContactBar(failed) -->
+</suite> <!-- Failed suite [Suite] -->

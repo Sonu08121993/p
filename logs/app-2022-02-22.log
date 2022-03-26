@@ -1,0 +1,33 @@
+[INFO ] 2022-02-22 19:30:03.659 [main] base - driver is initialized
+[INFO ] 2022-02-22 19:30:13.638 [main] base - driver is initialized and landed to webpage
+[INFO ] 2022-02-22 19:30:21.341 [main] base - driver is initialized
+[INFO ] 2022-02-22 19:30:25.670 [main] base - Navigated to homepage
+[INFO ] 2022-02-22 19:30:26.882 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-22 19:30:27.356 [main] base - Successfully submited username and password
+[INFO ] 2022-02-22 19:30:29.885 [main] base - Navigated to homepage
+[INFO ] 2022-02-22 19:30:30.701 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-22 19:30:31.539 [main] base - Successfully submited username and password
+[INFO ] 2022-02-22 19:30:32.369 [main] base - Successfully validated text message
+[INFO ] 2022-02-22 19:30:32.551 [main] base - Successfully validated element displayed
+[INFO ] 2022-02-22 19:48:22.258 [main] base - driver is initialized
+[INFO ] 2022-02-22 19:48:34.233 [main] base - Navigated to homepage
+[INFO ] 2022-02-22 19:48:36.229 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-22 19:48:36.752 [main] base - Successfully submited username and password
+[INFO ] 2022-02-22 19:48:38.162 [main] base - Navigated to homepage
+[INFO ] 2022-02-22 19:48:38.594 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-22 19:48:38.944 [main] base - Successfully submited username and password
+[INFO ] 2022-02-22 19:48:57.075 [main] base - driver is initialized
+[INFO ] 2022-02-22 19:48:57.133 [main] base - Successfully validated text message
+[INFO ] 2022-02-22 19:49:10.213 [main] base - driver is initialized and landed to webpage
+[INFO ] 2022-02-22 19:49:10.362 [main] base - Successfully validated element displayed
+[INFO ] 2022-02-22 19:56:02.305 [TestNG-tests-1] base - driver is initialized
+[INFO ] 2022-02-22 19:56:15.355 [TestNG-tests-3] base - driver is initialized and landed to webpage
+[INFO ] 2022-02-22 19:56:15.383 [TestNG-tests-2] base - driver is initialized
+[INFO ] 2022-02-22 19:56:15.527 [TestNG-tests-2] base - Successfully validated text message
+[INFO ] 2022-02-22 19:56:15.612 [TestNG-tests-3] base - Successfully validated element displayed
+[INFO ] 2022-02-22 19:56:15.656 [TestNG-tests-1] base - Navigated to homepage
+[INFO ] 2022-02-22 19:56:16.902 [TestNG-tests-1] base - Successfully landed to webpage
+[INFO ] 2022-02-22 19:56:17.539 [TestNG-tests-1] base - Successfully submited username and password
+[INFO ] 2022-02-22 19:56:18.892 [TestNG-tests-1] base - Navigated to homepage
+[INFO ] 2022-02-22 19:56:19.386 [TestNG-tests-1] base - Successfully landed to webpage
+[INFO ] 2022-02-22 19:56:19.806 [TestNG-tests-1] base - Successfully submited username and password

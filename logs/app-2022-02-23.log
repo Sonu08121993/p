@@ -1,0 +1,81 @@
+[INFO ] 2022-02-23 11:23:23.429 [TestNG-tests-1] base - driver is initialized
+[INFO ] 2022-02-23 11:23:29.710 [TestNG-tests-1] base - Navigated to homepage
+[INFO ] 2022-02-23 11:23:31.301 [TestNG-tests-2] base - driver is initialized
+[INFO ] 2022-02-23 11:23:31.304 [TestNG-tests-1] base - Successfully landed to webpage
+[INFO ] 2022-02-23 11:23:32.524 [TestNG-tests-1] base - Successfully submited username and password
+[INFO ] 2022-02-23 11:23:33.928 [TestNG-tests-3] base - driver is initialized and landed to webpage
+[INFO ] 2022-02-23 11:23:34.577 [TestNG-tests-3] base - Successfully validated element displayed
+[INFO ] 2022-02-23 11:23:35.736 [TestNG-tests-1] base - Navigated to homepage
+[INFO ] 2022-02-23 11:23:36.578 [TestNG-tests-1] base - Successfully landed to webpage
+[INFO ] 2022-02-23 11:23:36.941 [TestNG-tests-1] base - Successfully submited username and password
+[INFO ] 2022-02-23 11:57:29.377 [main] base - driver is initialized
+[INFO ] 2022-02-23 11:57:33.250 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 11:57:34.290 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 11:57:34.630 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 11:57:36.051 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 11:57:36.593 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 11:57:36.948 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 11:57:42.156 [main] base - driver is initialized
+[INFO ] 2022-02-23 11:57:42.209 [main] base - Successfully validated text message
+[INFO ] 2022-02-23 11:57:46.481 [main] base - driver is initialized and landed to webpage
+[INFO ] 2022-02-23 11:57:46.572 [main] base - Successfully validated element displayed
+[INFO ] 2022-02-23 12:31:43.026 [main] base - driver is initialized
+[INFO ] 2022-02-23 12:31:46.868 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 12:31:47.889 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 12:31:48.238 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 12:31:49.772 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 12:31:50.284 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 12:31:50.643 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 12:31:55.771 [main] base - driver is initialized
+[INFO ] 2022-02-23 12:32:04.969 [main] base - driver is initialized and landed to webpage
+[INFO ] 2022-02-23 12:32:05.052 [main] base - Successfully validated element displayed
+[INFO ] 2022-02-23 16:37:21.809 [main] base - driver is initialized
+[INFO ] 2022-02-23 16:37:24.834 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 16:37:25.938 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 16:37:26.292 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 16:37:28.398 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 16:37:28.977 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 16:37:29.303 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 16:42:23.504 [main] base - driver is initialized
+[INFO ] 2022-02-23 16:42:26.755 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 16:42:27.970 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 16:42:28.561 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 16:42:30.686 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 16:42:31.181 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 16:42:31.530 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 16:42:37.363 [main] base - driver is initialized
+[INFO ] 2022-02-23 16:42:42.952 [main] base - driver is initialized and landed to webpage
+[INFO ] 2022-02-23 16:42:43.051 [main] base - Successfully validated element displayed
+[INFO ] 2022-02-23 16:44:24.552 [main] base - driver is initialized
+[INFO ] 2022-02-23 16:44:28.188 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 16:44:29.421 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 16:44:29.842 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 16:44:31.845 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 16:44:32.353 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 16:44:32.721 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 16:44:38.214 [main] base - driver is initialized
+[INFO ] 2022-02-23 16:44:38.304 [main] base - Successfully validated text message
+[INFO ] 2022-02-23 16:44:42.740 [main] base - driver is initialized and landed to webpage
+[INFO ] 2022-02-23 16:44:42.862 [main] base - Successfully validated element displayed
+[INFO ] 2022-02-23 16:55:50.814 [main] base - driver is initialized
+[INFO ] 2022-02-23 16:55:54.011 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 16:55:55.117 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 16:55:55.506 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 16:55:57.943 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 16:55:58.584 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 16:55:58.972 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 16:56:06.930 [main] base - driver is initialized
+[INFO ] 2022-02-23 16:56:07.010 [main] base - Successfully validated text message
+[INFO ] 2022-02-23 16:56:12.482 [main] base - driver is initialized and landed to webpage
+[INFO ] 2022-02-23 16:56:12.597 [main] base - Successfully validated element displayed
+[INFO ] 2022-02-23 17:02:24.435 [main] base - driver is initialized
+[INFO ] 2022-02-23 17:02:27.554 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 17:02:28.550 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 17:02:28.921 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 17:02:31.068 [main] base - Navigated to homepage
+[INFO ] 2022-02-23 17:02:31.650 [main] base - Successfully landed to webpage
+[INFO ] 2022-02-23 17:02:32.021 [main] base - Successfully submited username and password
+[INFO ] 2022-02-23 17:02:37.757 [main] base - driver is initialized
+[INFO ] 2022-02-23 17:02:37.862 [main] base - Successfully validated text message
+[INFO ] 2022-02-23 17:02:42.169 [main] base - driver is initialized and landed to webpage
+[INFO ] 2022-02-23 17:02:42.294 [main] base - Successfully validated element displayed
